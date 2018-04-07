@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+My git's journey starts from here. Walk with me
